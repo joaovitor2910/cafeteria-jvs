@@ -1,12 +1,30 @@
-# React + Vite
+☕ Cafeteria JVS
+Uma cafeteria fictícia desenvolvida como projeto pessoal para praticar habilidades em desenvolvimento web responsivo. O site apresenta um layout moderno, com foco em usabilidade e visual agradável, tanto no desktop quanto no mobile.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Acesse o projeto online:
+👉 cafeteria-jvs.vercel.app
 
-Currently, two official plugins are available:
+🛠️ Tecnologias Utilizadas
+React
+JavaScript
+Styled-Components
+Responsividade (Media Queries)
+Deploy com Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Funcionalidades
+Interface responsiva (adaptação para mobile e desktop)
 
-## Expanding the ESLint configuration
+Navegação simples e intuitiva
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Layout agradável com foco em experiência do usuário
+
+💡 Aprendizados
+Esse projeto foi uma oportunidade de praticar estruturação de páginas responsivas, aplicar conceitos de design e reforçar habilidades com React, Styled-Components e JavaScript. Também foi usado como prática de deploy com o Vercel.
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/joao-vitor-dos-santos-siqueira/
+
+E-mail: joaovitor.siq8@gmail.com
+
+
